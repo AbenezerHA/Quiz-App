@@ -1,2 +1,2 @@
-# Quiz-App
+# Simple Quiz-App
 SIMPLE QUIZ APP USING STRUCTURE IN C++ LANGUAGE
